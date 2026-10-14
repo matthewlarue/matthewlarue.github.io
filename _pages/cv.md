@@ -39,6 +39,7 @@ Data engineer and consulting lead who builds reliable data pipelines and useful 
 
 - Led a product information management overhaul for 100,000 SKUs, building data pipelines and integrations for a richer, more reliable product model.
 - Helped implement RudderStack customer data collection for more than 20 million monthly events in BigQuery. Used segmentation to inform marketing decisions and presented findings to the CEO and marketing leadership.
+- Met one-on-one with KEH's CEO for mentorship, gaining direct insight into the business and its priorities.
 - Built Python and Google Cloud models for price and inventory optimization using demand, seasonality, and price elasticity.
 - Led the move from Universal Analytics to GA4, built more than 20 Qlik Sense dashboards, and developed batch and streaming analytics pipelines.
 
