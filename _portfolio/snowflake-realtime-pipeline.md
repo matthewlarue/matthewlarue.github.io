@@ -2,6 +2,7 @@
 title: "Real-Time Data Pipeline with Snowflake"
 excerpt: "Create a robust, scalable, and efficient real-time data pipeline using Snowflake. This pipeline aims to streamline data ingestion, storage, and analysis processes"
 collection: portfolio
+published: false
 ---
 
 # Building a Real-Time Data Pipeline with Snowflake
