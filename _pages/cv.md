@@ -52,7 +52,7 @@ Data engineer and consulting lead who builds reliable data pipelines and useful 
 
 **Colorado School of Mines** · BS, Computer Science, 2022<br>
 **Earned:** Databricks Generative AI Engineer<br>
-**In progress:** Google Cloud Professional Data Engineer; Databricks Data Engineer
+**In progress:** Google Cloud Professional Data Engineer; Databricks Certified Data Engineer Professional
 
 ### Skills
 
