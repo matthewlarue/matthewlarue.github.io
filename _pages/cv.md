@@ -22,7 +22,7 @@ Data engineer and consulting lead who builds reliable data pipelines and useful 
 
 - Lead an onshore and offshore team of 15 for a global beauty company, coordinating delivery across e-commerce, analytics, supply chain, and data platform projects. Work directly with senior engineering and data science leaders on priorities and decisions.
 - Led data migration for a Shopify replatforming across 11 brand-region sites. Kept historical reporting consistent through each cutover and built multi-brand, multi-region data marts and Looker dashboards as the work expanded.
-- Oversaw GA4 analytics data for 15+ brands and roughly 300 brand-region sites. Resolved critical data issues and built a cross-brand channel attribution dashboard to replace deprecated reporting.
+- Oversee GA4 data and reporting for 15+ brands across roughly 300 brand-region sites. Resolved critical data issues and built a cross-brand channel attribution dashboard to replace deprecated reporting.
 - Tuned Airflow workloads to reduce BigQuery slot hours and cost by more than 20%. Helped benchmark a move to Databricks on Google Cloud and improve delivery practices.
 - Developed human-reviewed data validation workflows and led a proof of concept for an AI-assisted Power BI-to-Looker migration. I have recently started contributing technical input to presales conversations.
 - Mentored engineers, helped teammates take ownership of maintenance, and established a steady delivery cadence across workstreams.
