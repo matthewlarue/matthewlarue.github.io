@@ -15,6 +15,6 @@ In parallel, I built Python and Google Cloud models for price and inventory opti
 
 ## The result
 
-The product data became more useful for downstream systems, and the customer analysis gave marketing a clearer view of its audiences. I presented the findings to KEH's CEO and marketing leadership.
+The product data became more useful for downstream systems, and the customer analysis gave marketing a clearer view of its audiences. I presented the findings to KEH's CEO and marketing leadership. I also met one-on-one with the CEO for mentorship, gaining a direct view of the business priorities behind the data work.
 
 **Tools:** Python, SQL, BigQuery, RudderStack, GA4, Qlik Sense, Google Cloud, GraphQL
