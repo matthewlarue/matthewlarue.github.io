@@ -1,20 +1,16 @@
 ---
 permalink: /
-title: "👋🏼 Hey there, I'm Matt"
+title: "Hi, I'm Matt La Rue"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a GCP Data Engineer with over 3 years of experience in data engineering and analytics, specializing in Python, SQL, analytics and machine learning models. I enjoy working at the intersection of data, software and business decisions.
+I build data systems that people can trust and use. I'm a data engineer and consulting lead at Lovelytics, where I still work hands-on with Python, SQL, Google Cloud, Airflow, Databricks, and Looker while leading a 15-person delivery team.
 
-Some of my latest work includes implementing Rudderstack as a CDP, creating a Master Data Management (MDM) for both customer and product data, transitioning form Universal Analytics (UA) to GA4, designing a Price Optimization model with Machine Learning (ML) and leveraging cloud technologies for data pipeline (ETL) construction and optimization.
+My current work supports a global beauty company across e-commerce, digital analytics, supply chain, and its data platform. I've led the data side of a Shopify migration across 11 brand-region sites, kept reporting consistent through the cutovers, and helped teams make sense of GA4 data across 15+ brands. I also reduced BigQuery slot usage and cost by more than 20% by tuning Airflow workloads.
 
-I'm proficient at technologies including Serverless Functions, Airflow, Spark, BigQuery, QlikSense BI, Kafka, and others.
+Before Lovelytics, I worked on cloud data engineering at Gordon Food Service and on product, customer, and marketing data at KEH. I like projects where the technical details matter, but so does explaining the result clearly to the people making decisions.
 
-I graduated with a B.S. in Computer Science from the Colorado School of Mines with certifications as a Scrum Master and have completed extensive coursework in data science, software engineering, and data engineering foundations.
-
-# Learn more about me and connect!
-
-Take a look around the site to learn more [about me](/cv/), read some of my [posts](/year-archive/) and checkout some of my [work](/portfolio/)!
+Explore my [selected work](/portfolio/) or [public CV](/cv/), or find me on [GitHub](https://github.com/matthewlarue) and [LinkedIn](https://www.linkedin.com/in/matthewlarue/).
