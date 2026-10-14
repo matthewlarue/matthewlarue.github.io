@@ -48,10 +48,11 @@ Data engineer and consulting lead who builds reliable data pipelines and useful 
 
 - Built an embedded workflow application with JavaScript, HTML, and PHP in collaboration with stakeholders and an agile team.
 
-### Education and certification
+### Education and certifications
 
 **Colorado School of Mines** · BS, Computer Science, 2022<br>
-**Databricks Generative AI Engineer** certification
+**Earned:** Databricks Generative AI Engineer<br>
+**In progress:** Google Cloud Professional Data Engineer; Databricks Data Engineer
 
 ### Skills
 
